@@ -1,0 +1,16 @@
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\bin\Debug\net5.0\TaxiManangeent.exe
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\bin\Debug\net5.0\TaxiManangeent.deps.json
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\bin\Debug\net5.0\TaxiManangeent.runtimeconfig.json
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\bin\Debug\net5.0\TaxiManangeent.runtimeconfig.dev.json
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\bin\Debug\net5.0\TaxiManangeent.dll
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\bin\Debug\net5.0\ref\TaxiManangeent.dll
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\bin\Debug\net5.0\TaxiManangeent.pdb
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\obj\Debug\net5.0\TaxiManangeent.csproj.AssemblyReference.cache
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\obj\Debug\net5.0\TaxiManangeent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\obj\Debug\net5.0\TaxiManangeent.AssemblyInfoInputs.cache
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\obj\Debug\net5.0\TaxiManangeent.AssemblyInfo.cs
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\obj\Debug\net5.0\TaxiManangeent.csproj.CoreCompileInputs.cache
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\obj\Debug\net5.0\TaxiManangeent.dll
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\obj\Debug\net5.0\ref\TaxiManangeent.dll
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\obj\Debug\net5.0\TaxiManangeent.pdb
+C:\Users\zahra\source\repos\oop projects\TaxiManangeent\TaxiManangeent\obj\Debug\net5.0\TaxiManangeent.genruntimeconfig.cache
